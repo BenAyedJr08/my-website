@@ -1,3 +1,8 @@
 #name{
-    color: deeppink;
+    color: darkblue;
+}
+#mail{
+    display: flex;
+    align-items: baseline;
+    gap: 5px;
 }
