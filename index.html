@@ -9,16 +9,19 @@
 </head>
 <body>
     <header>
-        <h1 id="name">Youssef Ben Ayed</h1>
+        <div id="name-image">
+            <h1 id="name">Youssef</h1>
+            <img id="me" src="../my-website/journal/taswirti.png">
+        </div>
         <nav>
-            <button href="#" class="active"> Home</button>
-            <button href="#education" > Education</button>
-            <button href="#skills" > Skills</button>
-            <button href="#portfolio" > Portfolio</button>
-            <button href="#contact" > Contact</button>
+            <a href="#home" class="active" type="button"> Home</a>
+            <a href="#education" type="button"> Education</a>
+            <a href="#skills" type="button"> Skills</a>
+            <a href="#portfolio" type="button"> Portfolio</a>
+            <a href="#contact" type="button"> Contact</a>
         </nav>
     </header>
-    <p>Hello ! Welcome to my website !</p>
+    <p id="home">Hello ! Welcome to my website !</p>
     <div id="education">
         <h1 class="titles"> Education</h1>
         <p> 2023-2025 : Lycée Pilote Menzah 8</p>
@@ -27,20 +30,30 @@
     <div id="skills">
         <h1 class="titles"> Skills</h1>
         <h3 class="sous-titres"> CAD :</h3>
-        <p> -Solidworks (CSWA)<br> -Fusion 360 <br> -AutoCAD</p>
+        <p> <a href="file:///C:/Users/youss/Desktop/Ben%20Ayed%20Jr/important/CSWA%20Certification.pdf"> -Solidworks (CSWA)</a><br> -Fusion 360 <br> -AutoCAD</p>
         <h3 class="sous-titres"> Circuit design</h3>
         <p> -KiCad <br> -Cirkit <br> -Proteus 8 </p>
         <h3 class="sous-titres"> Video editing</h3>
         <p> -DaVinci Resolve</p>
     </div>
     <div id="portfolio">
-        <h1 class="titles"> </h1>
+        <h1 class="titles"> Portfolio</h1>
     </div>
-    <div id="contact">
+    <footer id="contact">
+        <h1 class="contact"> Social networks</h1>
+        <div id="social">
+            <div class="kbira">
+                <a href="https://github.com/BenAyedJr08"><img id="githublogo" src="../my-website/journal/github.png" alt="Github : BenAyedJr08"></a>
+            </div>
+            <div class="kbira">
+                <a href="https://www.linkedin.com/in/youssef-ben-ayed-1467553b6/"><img id="linkedinlogo" src="../my-website/journal/linkedin.png"></a>
+            </div>
+        </div>
+        
         <div id="mail">
             <h5> Gmail :</h5>
             <p> youssefbenayedjr@gmail.com</p>
         </div>
-    </div>
+    </footer>
 </body>
 </html>

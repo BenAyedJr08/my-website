@@ -20,3 +20,22 @@ I find some difficulties in aligning the "Gmail :" and the actual adress as they
 but eventually after some research i figured out that the issue is fixed using css.
 
 **Total time spent : 1h 28m**
+
+# july 9th : focusing a bit more on css
+
+After working on most of the html of my website, I started learning more css. I used a website called flexboxfroggy that helped me understand the basics as well as many youtube videos and tutorials. but before that, i tested the header buttons on my website that should transfer me to the headlines and found out that they dont work. after a while (a very long time) i found the issue and corrected it. I used the <button> markup instead of <a> so my buttons couldn't perform any task.
+
+![alt text](image-3.png)
+![alt text](image-4.png)
+
+then I added a github and linkedin logo and added the links of my profiles so that when you click on them it takes you to my profile page.
+
+![alt text](image-5.png)
+
+After this, I generated a palette on a website on google and used some of the colors to color my website. I changed the background and the color of my name. I also added a picture of myself next to my name. Finally, I learned how to use the margin, padding and gap functions and used them to adjust the space between the elements of the website. This whole process took me 2 days but the coding time was only 2 hours, as I spent most of the time learning css and html. I am really satisfied by the progress I made so far and I'm excited to learn more each day.
+progress so far :
+
+![alt text](image-6.png)
+![alt text](image-7.png)
+
+**Total time spent : 2h 8m 23s** 

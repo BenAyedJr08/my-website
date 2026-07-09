@@ -1,8 +1,62 @@
+@font-face {
+    font-family: Akira;
+    src: url(../my-website/fonts/Akira\ Expanded\ Demo.otf) format(opentype);
+}
 #name{
-    color: darkblue;
+    font-family: Akira;
+    color: #41EAD4;
 }
 #mail{
     display: flex;
     align-items: baseline;
     gap: 5px;
+    margin-top: 0px;
+}
+#githublogo{
+    width: 40px;
+    height: 40px;
+}
+#linkedinlogo{
+    width: 40px;
+    height: 40px;
+}
+#social{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+}
+*{
+    text-decoration: none;
+}
+div{
+    margin-top: 30px;
+}
+.kbira{
+    margin-top: 0px;
+}
+header{
+    font-family: poppins;
+}
+body{
+    padding-left: 100px;
+    padding-top: 25px;
+    background-color: #0E0E52;
+}
+#skills{
+    padding: 5px;
+}
+#cswa{
+    margin: 5px;
+}
+#me{
+    width: 100px;
+    height: 100px;
+}
+#name-image{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin: 25px;
 }
