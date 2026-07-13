@@ -39,3 +39,22 @@ progress so far :
 ![alt text](image-7.png)
 
 **Total time spent : 2h 8m 23s** 
+
+# july 12th : more html and css
+
+I worked on the fonts, adjusting the sizes, the paddings and the margins. then I set different background colors for the header, body and footer (it's bad i know i will change them later it was just for setting the div size) I also added an effect to the titles when the cursor gets close to them. The color shifts from light grey to a bit darker grey.
+
+![alt text](<Screenshot 2026-07-12 192714.png>) ![alt text](<Screenshot 2026-07-12 192718.png>)
+
+I also updated the projects section and added some of my projects with the gitub link on the image for some. 
+
+![alt text](image-8.png)
+
+progress so far :
+
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
+
+**Total time spent : 2h 52m**

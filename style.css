@@ -1,10 +1,33 @@
 @font-face {
+    font-family: Azonix;
+    src: url(../my-website/fonts/Azonix.otf);
+}
+@font-face {
     font-family: Akira;
-    src: url(../my-website/fonts/Akira\ Expanded\ Demo.otf) format(opentype);
+    src: url(../my-website/fonts/Akira\ Expanded\ Demo.otf);
+}
+@font-face {
+    font-family: Nature;
+    src: url(../my-website/fonts/Realistic\ Nature.otf);
+}
+@font-face {
+    font-family: Butler;
+    src: url(../my-website/fonts/Butler-Free-Bd.otf);
+}
+header{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    margin-left: -100px;
+    margin-top: -20px;
+    padding-left: 100px;
+    padding-top: 0px;
+    width: 100vw;
 }
 #name{
-    font-family: Akira;
+    font-family: Azonix;
     color: #41EAD4;
+    font-size: 300%;
 }
 #mail{
     display: flex;
@@ -25,24 +48,22 @@
     height: 50px;
     display: flex;
     align-items: baseline;
-    gap: 10px;
+    gap: 20px;
 }
 *{
     text-decoration: none;
 }
 div{
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .kbira{
     margin-top: 0px;
 }
-header{
-    font-family: poppins;
-}
 body{
     padding-left: 100px;
-    padding-top: 25px;
-    background-color: #0E0E52;
+    padding-top: 20px;
+    background-color: #150578;
+    margin: 0;
 }
 #skills{
     padding: 5px;
@@ -59,4 +80,89 @@ body{
     align-items: center;
     gap: 50px;
     margin: 25px;
+}
+.titles{
+    font-family: Akira;
+    color: #8D8D92;
+    font-size: x-large;
+    padding: 40px;
+    width: 0px;
+    height: 0px;
+    font-size: 150%;
+}
+h5{
+    color: #5D5E60;
+}
+#sections{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+    padding: 50px;
+    margin-left: 150px;
+}
+.titles:hover{
+    background-color: #150578;
+    color: #5D5E60;
+    transition: background-color 0.3s;
+}
+nav a{
+    color: white;
+}
+p{
+    font-family: Nature;
+    font-size: 150%;
+}
+footer{
+    display: flex;
+    align-items: baseline;
+    gap: 20px;
+    background-color: #0000FF;
+    margin-left: -100px;
+}
+#gmaillogo{
+    width: 40px;
+    height: 40px;   
+}
+h3{
+    font-family: Butler;
+    font-size: 150%;
+}
+#pcstand{
+    width: 247px;
+    height: 350px;
+}
+#stand{
+    display: flex;
+    align-items: center;
+    gap: 200px;
+}
+#hackpad{
+    width: 400px;
+    height: 400px;
+}
+#macropad{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+#derby{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    padding-bottom: 75px;
+}
+#derbycar{
+    width: 300px;
+    height: 350px;
+}
+#derbycar2{
+    width: 400px;
+    height: 250px;
+}
+#socialnetwork{
+    color: #8D8D92;
+    padding-left: 75px;
+    font-family: Akira;
+    padding-right: 100px;
 }
