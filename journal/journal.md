@@ -58,3 +58,12 @@ progress so far :
 ![alt text](image-12.png)
 
 **Total time spent : 2h 52m**
+
+# 13th july : finishing my website
+
+I worked today on the last details of my website like the smooth scrolling between sections when you click on the buttons, opening a new tab when clicking on links, some effects to the images, adding borders... I also made a few other adjustments and changed the backgrounds. The result might not be that good, but what I learned through this weeks is truly amazing and I'll surely comeback later to work again on this website and upgrade it.
+
+![alt text](image-13.png)
+![alt text](<Screenshot 2026-07-14 010947.png>)
+![alt text](<Screenshot 2026-07-14 010958.png>)
+**Total time spent : 1h 35m**
