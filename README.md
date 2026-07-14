@@ -1,7 +1,7 @@
 # my-website
 If I ever wanted to get started in software and build software projects, I would start by making my own website. This would serve as my resume and where I can display my education, skills, projects and more. So I started learning how to code a week ago, and made this small website. For sure it is not really good and some elements are missing or could be displayed a better way, but this journey was all about learning and experimenting, and I'm quite satisfied with the result.
 
-![alt text](image-13.png)
+![alt text](<Screenshot 2026-07-14 010930.png>)
 ![alt text](<Screenshot 2026-07-14 010947.png>)
 ![alt text](<Screenshot 2026-07-14 010958.png>)
 

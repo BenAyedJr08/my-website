@@ -66,4 +66,4 @@ I worked today on the last details of my website like the smooth scrolling betwe
 ![alt text](image-13.png)
 ![alt text](<Screenshot 2026-07-14 010947.png>)
 ![alt text](<Screenshot 2026-07-14 010958.png>)
-**Total time spent : 1h 35m**
+**Total time spent : 1h 36m**
